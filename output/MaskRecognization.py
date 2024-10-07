@@ -647,7 +647,7 @@ def plot_weight_histograms(model):
             plt.ylabel('Frequency')
             plt.show()
 
-# 可视化模型权重的直方图
+
 plot_weight_histograms(model)
 
 
